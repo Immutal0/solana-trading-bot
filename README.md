@@ -25,12 +25,12 @@
 ## 🛠️ **Public Trading Bots & Tools**
 | 🚀 Project | 🔧 Features |
 |------------|------------|
-| **🔹 Pumpfun Sniper (Demo)** | Fast token sniping for Pumpfun pools. |
-| **🔹 Pumpfun Bundler (3 Wallets)** | Bulk sniping for multi-wallet setups. |
-| **🔹 Pumpfun Volume Bot (With single wallet and fixed buy/sell amount)** | Automates volume-based trading. |
+| **🔹 Pumpfun Sniper (Demo)** | Fast token sniping for Pumpfun pools. (<a href="https://github.com/damon-web3ai/Solana-pumpfun-sniper-bot">Here</a>) |
+| **🔹 Pumpfun Bundler (3 Wallets)** | Bulk sniping for multi-wallet setups. (<a href="https://github.com/damon-web3ai/solana-pumpfun-bundler-bot">Here</a>) |
+| **🔹 Pumpfun Volume Bot (With single wallet and fixed buy/sell amount)** | Automates volume-based trading. (<a href="https://github.com/damon-web3ai/solana-pumpfun-volume-bot">Here</a>) |
 | **🔹 CopyTrading Bot (Pumpfun Tokens Only)** | Mirrors top traders on Pumpfun. |
-| **🔹 Raydium Volume Bot (Single Wallet)** | Tracks and trades based on volume spikes. |
-| **🔹 SPL Token Launchpad** | Deploy your own Solana tokens with ease. |
+| **🔹 Raydium Volume Bot (Massive transactions in short periods)** | Tracks and trades based on volume spikes. (<a href="https://github.com/damon-web3ai/solana-raydium-volume-bot">Here</a>) |
+| **🔹 SPL Token Launchpad** | Deploy your own Solana tokens with ease. (<a href="https://github.com/damon-web3ai/solana-spl-token-launchpad">Here</a>) |
 
 ---
 
@@ -40,6 +40,7 @@
 | **💎 Pumpfun Sniper (gRPC, 1-2 Block Execution)** | Uses **Yellowstone gRPC** for ultra-fast execution. |
 | **💎 Pumpfun Bundler (+27 Wallets)** | Snipes multiple wallets in a single transaction. |
 | **💎 Raydium Sniper (1s Buy/Sell Strategy)** | Includes **TAKE PROFIT & STOP LOSS**, advanced filters. |
+| **💎 Raydium Bundler** | Massive transactions in a short period | 
 | **💎 CopyTrading Bot (Any Token)** | Replicates whale trades with custom strategies. |
 | **💎 Market Maker Bot** | Provides liquidity & stabilizes token prices. |
 | **💎 Arbitrage Bot** | Finds and exploits price discrepancies across **Solana DEXes**. |
