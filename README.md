@@ -77,7 +77,7 @@
 📌 **Twitter**: <a href="https://x.com/Immutal0">Immutal0</a>  
 
 
-🌟 **Star my repos repo** if you like my work!  
+🌟 **Star my repos** if you like my work!  
 
 ---
 🚀 **Building the future of automated trading, liquidity, and decentralized finance!** 🔥
