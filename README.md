@@ -58,13 +58,13 @@
 ---
 
 ## 🚀 **Specialized Blockchain & DeFi Solutions**
-✅ **Solana Trading Bot** – Multi-pool tracking, Telegram alerts, manual & auto trading.  
-✅ **Raydium Sniper & Bundler** – Snipes **Raydium pools** at launch with bundling support.  
-✅ **Meteora DLMM & DYN Volume Bot** – Market making for **Meteora’s deep liquidity pools**.  
-✅ **CCTP-based Solana/EVM Bridge** – Transfers **tokens seamlessly across Solana & EVM chains**.  
-✅ **Solana Token Freezer & Wallet Tracker** – **Blacklist/Whitelist mechanics for token trading**.  
-✅ **AI-Powered Twitter Bot** – Automatically replies to trending tweets to boost **crypto engagement**.  
-✅ **Pumpfun Forking Full Project** - (Frontend, Backend, Smart Contract)
+⚡ **Solana Trading Bot** – Multi-pool tracking, Telegram alerts, manual & auto trading.  
+⚡ **Raydium Sniper & Bundler** – Snipes **Raydium pools** at launch with bundling support.  
+⚡ **Meteora DLMM & DYN Volume Bot** – Market making for **Meteora’s deep liquidity pools**.  
+⚡ **CCTP-based Solana/EVM Bridge** – Transfers **tokens seamlessly across Solana & EVM chains**.  
+⚡ **Solana Token Freezer & Wallet Tracker** – **Blacklist/Whitelist mechanics for token trading**.  
+⚡ **AI-Powered Twitter Bot** – Automatically replies to trending tweets to boost **crypto engagement**.  
+⚡ **Pumpfun Forking Full Project** - (Frontend, Backend, Smart Contract)
 ---
 
 ## 🏅 **How to Work with Me**
