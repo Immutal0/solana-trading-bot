@@ -25,7 +25,7 @@
 ## 🛠️ **Public Trading Bots & Tools**
 | 🚀 Project | 🔧 Features |
 |------------|------------|
-| **🔹 Pumpfun Sniper (Demo)** | Fast token sniping for Pumpfun pools. (<a href="https://github.com/Immutal0/Solana-pumpfun-sniper-bot">Here</a>) |
+| **🔹 Pumpfun Sniper (Demo)** | Fast token sniping for Pumpfun pools. |
 | **🔹 Pumpfun Bundler (3 Wallets)** | Bulk sniping for multi-wallet setups. (<a href="https://github.com/Immutal0/solana-pumpfun-bundler-bot">Here</a>) |
 | **🔹 Pumpfun Volume Bot (With single wallet and fixed buy/sell amount)** | Automates volume-based trading. (<a href="https://github.com/Immutal0/solana-pumpfun-volume-bot">Here</a>) |
 | **🔹 CopyTrading Bot (Pumpfun Tokens Only)** | Mirrors top traders on Pumpfun. |
