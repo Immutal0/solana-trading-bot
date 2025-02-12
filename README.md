@@ -25,12 +25,12 @@
 ## 🛠️ **Public Trading Bots & Tools**
 | 🚀 Project | 🔧 Features |
 |------------|------------|
-| **🔹 Pumpfun Sniper (Demo)** | Fast token sniping for Pumpfun pools. (<a href="https://github.com/damon-web3ai/Solana-pumpfun-sniper-bot">Here</a>) |
-| **🔹 Pumpfun Bundler (3 Wallets)** | Bulk sniping for multi-wallet setups. (<a href="https://github.com/damon-web3ai/solana-pumpfun-bundler-bot">Here</a>) |
-| **🔹 Pumpfun Volume Bot (With single wallet and fixed buy/sell amount)** | Automates volume-based trading. (<a href="https://github.com/damon-web3ai/solana-pumpfun-volume-bot">Here</a>) |
+| **🔹 Pumpfun Sniper (Demo)** | Fast token sniping for Pumpfun pools. (<a href="https://github.com/Immutal0/Solana-pumpfun-sniper-bot">Here</a>) |
+| **🔹 Pumpfun Bundler (3 Wallets)** | Bulk sniping for multi-wallet setups. (<a href="https://github.com/Immutal0/solana-pumpfun-bundler-bot">Here</a>) |
+| **🔹 Pumpfun Volume Bot (With single wallet and fixed buy/sell amount)** | Automates volume-based trading. (<a href="https://github.com/Immutal0/solana-pumpfun-volume-bot">Here</a>) |
 | **🔹 CopyTrading Bot (Pumpfun Tokens Only)** | Mirrors top traders on Pumpfun. |
-| **🔹 Raydium Volume Bot (Massive transactions in short periods)** | Tracks and trades based on volume spikes. (<a href="https://github.com/damon-web3ai/solana-raydium-volume-bot">Here</a>) |
-| **🔹 SPL Token Launchpad** | Deploy your own Solana tokens with ease. (<a href="https://github.com/damon-web3ai/solana-spl-token-launchpad">Here</a>) |
+| **🔹 Raydium Volume Bot (Massive transactions in short periods)** | Tracks and trades based on volume spikes. (<a href="https://github.com/Immutal0/solana-raydium-volume-bot">Here</a>) |
+| **🔹 SPL Token Launchpad** | Deploy your own Solana tokens with ease. (<a href="https://github.com/Immutal0/solana-spl-token-launchpad">Here</a>) |
 
 ---
 
@@ -74,7 +74,7 @@
 📩 Feel free to **DM me** on **Telegram** or **Twitter** for collaboration!  
 
 📌 **Telegram**: <a href="https://t.me/Immutal0">@Immutal0</a>
-📌 **Twitter**: <a href="https://x.com/Immutal0">Immutal0</a>  
+📌 **Twitter**: <a href="https://x.com/Immutal0">@Immutal0</a>  
 
 
 🌟 **Star my repos** if you like my work!  
