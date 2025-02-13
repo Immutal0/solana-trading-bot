@@ -74,7 +74,7 @@
 📩 Feel free to **DM me** on **Telegram** or **Twitter** for collaboration!  
 
 📌 **Telegram**: <a href="https://t.me/Immutal0">@Immutal0</a>
-📌 **Twitter**: <a href="https://x.com/Immutal0">@Immutal0</a>  
+📌 **Twitter**: <a href="https://x.com/Immutal0_">@Immutal0_</a>  
 
 
 🌟 **Star my repos** if you like my work!  
